@@ -20,10 +20,11 @@ pattern_analysis
 
 
 
-A package (https://pypi.org/project/pattern-analysis/) for analyzing patterns in biological data.
+A package for analyzing patterns in biological data.
 
 
 * Free software: MIT license
+* Python Package Index: https://pypi.org/project/pattern-analysis/
 * Documentation: https://pattern-analysis.readthedocs.io.
 
 
