@@ -16,13 +16,13 @@ This project is under active development.
    :maxdepth: 2
    :caption: Contents:
 
-   ../readme
-   ../installation
+   readme
+   installation
    usage
-   ../modules
-   ../contributing
-   ../authors
-   ../history
+   modules
+   contributing
+   authors
+   history
    api
 
 Indices and tables
