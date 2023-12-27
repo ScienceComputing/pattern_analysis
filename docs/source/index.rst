@@ -19,7 +19,6 @@ This project is under active development.
    readme
    installation
    usage
-   modules
    contributing
    authors
    history
