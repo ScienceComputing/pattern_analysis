@@ -5,7 +5,9 @@ Welcome to the pattern_analysis package which is designed to empower efficient a
 
 Check out the :doc:`usage` section for further information.
 
-Note: This project is under active development.
+Note
+
+This project is under active development.
 
 .. toctree::
    :maxdepth: 2
