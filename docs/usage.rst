@@ -2,13 +2,13 @@
 Usage
 =====
 
-To use pattern_analysis in a project::
+To use pattern_analysis in a project:
 
 .. code-block:: python
     import pattern_analysis
 
 
-To quantify the occurences of a specified pattern in a sequence
+To quantify the occurences of a specified pattern in a sequence:
 
 .. code-block:: python
 
