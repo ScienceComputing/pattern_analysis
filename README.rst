@@ -13,13 +13,6 @@ pattern_analysis
         :target: https://pattern-analysis.readthedocs.io/en/latest/?version=latest
         :alt: Documentation Status
 
-
-.. image:: https://pyup.io/repos/github/ScienceComputing/pattern_analysis/shield.svg
-     :target: https://pyup.io/repos/github/ScienceComputing/pattern_analysis/
-     :alt: Updates
-
-
-
 A package for analyzing patterns in biological data.
 
 
