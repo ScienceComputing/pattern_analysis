@@ -23,6 +23,7 @@ This project is under active development.
    ../contributing
    ../authors
    ../history
+   api
 
 Indices and tables
 ==================
