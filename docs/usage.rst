@@ -5,6 +5,7 @@ Usage
 To use pattern_analysis in a project:
 
 .. code-block:: python
+
     import pattern_analysis
 
 
